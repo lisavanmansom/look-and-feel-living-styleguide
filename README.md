@@ -3,6 +3,8 @@ Deze opdracht gaat over analyseren en ontwerpen/bouwen van de DLC. In de analyse
 
 <img width="1402" alt="Scherm­afbeelding 2023-11-16 om 15 13 50" src="https://github.com/lisavanmansom/look-and-feel-living-styleguide/assets/144007419/1683b503-6230-436c-8497-39f5def1ffff">
 
+### [Live url](https://akikosophia.github.io/look-and-feel-living-styleguide/)
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
